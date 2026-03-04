@@ -1,9 +1,11 @@
 # Tarkov-Tools
 Small assortment of tools to assist with SPT modding
 
-Contains three Unity Plugins (BundleDependencyExporter, FixAnimNames and TextureAssigner), and two Python Scripts.
+Contains three Unity Plugins (BundleDependencyExporter, FixAnimNames and TextureAssigner), and a few Python Scripts.
 
 Drag and drop the .cs files into your unity project in the "editor" folder
+
+run the python programs with "python .\$pythonprogram.py"
 
 # BundleDependencyExporter:
 
@@ -31,3 +33,5 @@ Main features:
   Change Red to Blue Normals
   Rotate all images in a directory
 
+#SPT ID Creator
+Takes all of your jsons and makes an .sptid file for those using jetbrains rider with the SPT plugin.
