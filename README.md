@@ -1,5 +1,7 @@
 # Tarkov-Tools
-Small assortment of tools to assist with SPT modding
+Small assortment of tools to assist with SPT modding.
+
+Google AI Studio was used to assist with the creation of these.
 
 Contains three Unity Plugins (BundleDependencyExporter, FixAnimNames and TextureAssigner), and a few Python Scripts.
 
